@@ -4,6 +4,17 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/text-to-speech?activeTab=versions
 
+## [3.0.0](https://www.github.com/googleapis/nodejs-text-to-speech/compare/v2.3.0...v3.0.0) (2020-04-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* The library now supports Node.js v10+. The last version to support Node.js v8 is tagged legacy-8 on NPM.
+
+### Features
+
+* drop node8 support ([#373](https://www.github.com/googleapis/nodejs-text-to-speech/issues/373)) ([21e3598](https://www.github.com/googleapis/nodejs-text-to-speech/commit/21e359885c39d4dfc6ed0a231fd66d35628fa0cb))
+
 ## [2.3.0](https://www.github.com/googleapis/nodejs-text-to-speech/compare/v2.2.0...v2.3.0) (2020-03-06)
 
 
